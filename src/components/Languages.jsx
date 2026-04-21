@@ -1,4 +1,4 @@
-import { section } from "framer-motion/client";
+
 import { language } from "../data/data";
 
 export default  function Languages() {
