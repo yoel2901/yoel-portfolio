@@ -19,7 +19,7 @@ export default function Hero() {
           animate={{ opacity: 1 }}
           className="mt-6 text-lg text-gray-500 dark:text-gray-400"
         >
-          Softwar Engineer
+          Software Engineer
         </motion.p>
 
         <div className="mt-8 flex gap-6 text-sm items-center">
