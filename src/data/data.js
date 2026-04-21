@@ -15,10 +15,12 @@ legacy code and implementing modern architectural patterns
 `;
 
 export const skills = [
+  "HTML/CSS/PHP",
   "Java (Spring Boot)",
   "JavaScript (ES6+)",
   "Python",
-  "PHP",
+  "REACT",
+  "Angular",
   "REST APIs",
   "Microservices",
   "PostgreSQL / MySQL",
@@ -69,5 +71,23 @@ export const experiences = [
       "Translated business needs into tech solutions",
       "Improved UX and workflows",
     ],
+  },
+];
+
+export const language = [
+  {
+    name: "French",
+    level: "Native",
+    flag: "https://flagcdn.com/w40/fr.png",
+  },
+  {
+    name: "English",
+    level: "Professional",
+    flag: "https://flagcdn.com/w40/gb.png",
+  },
+  {
+    name: "Hebrew",
+    level: "Professional",
+    flag: "https://flagcdn.com/w40/il.png",
   },
 ];
